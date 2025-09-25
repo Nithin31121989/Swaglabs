@@ -2,7 +2,7 @@
 
 This project is a **Java Selenium WebDriver automation script** that performs an **end-to-end purchase flow** on [SauceDemo](https://www.saucedemo.com/v1/).
 
----
+
 
  Features Covered
 - Launches Firefox browser with `geckodriver`.
@@ -13,7 +13,7 @@ This project is a **Java Selenium WebDriver automation script** that performs an
 - Completes the purchase.
 - Closes the browser automatically.
 
----
+
 
  Technologies Used
 - **Java** (JDK 8+)
